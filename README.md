@@ -5,7 +5,7 @@
 ## 📙 Some of my open source projects
 
 <p align="left">
-  <a href="https://github.com/dev-ricardoneud/"><img width="270" alt="Pterodactyl NextJS Egg" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=dev-ricardoneud&repo=&theme=react&bg_color=3d3d3d&title_color=59A9FF&icon_color=59A9FF&hide_border=true&show_icons=false" /></a>
+  <a href="https://github.com/dev-ricardoneud/pterodactyl-next-js-egg"><img width="270" alt="Pterodactyl NextJS Egg" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=dev-ricardoneud&repo=pterodactyl-next-js-egg&theme=react&bg_color=3d3d3d&title_color=59A9FF&icon_color=59A9FF&hide_border=true&show_icons=false" /></a>
 </p>
 
 <p align="left">
