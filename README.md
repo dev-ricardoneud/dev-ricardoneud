@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?color=%2359A9FF&center=true&lines=FULLSTACK+DEVELOPER;Ricardoneud.com+men+own+non-profit+company" /></a>
+  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?color=%2359A9FF&center=true&lines=FULLSTACK+DEVELOPER;RICARDONEUD.COM+MEN+OWN+NON-PROFIT+COMPANY" /></a>
 </p>
 
 ## 📙 Some of my open source projects
